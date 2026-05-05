@@ -20,6 +20,7 @@ This project recreates a modern agency homepage design featuring service section
 ## Features
 
 * Hero section
+* Companies section
 * Services section
 * Case studies
 * Working process layout
